@@ -6,7 +6,7 @@ My primary research areas include tiltrotor whirl flutter, comprehensive helicop
 During my Ph.D., I actively participated in several noteworthy projects. 
 These included [ATTILA](https://www.attila-project.eu/) Clean Sky project, which focused on developing a wind tunnel testbed to study tiltrotor whirl-flutter stability, [FORMOSA](https://www.formosa-project.eu/) project, aimed at designing an innovative control surface for the NextGen civil tiltrotor, and Flapping Wing ESA project, which explored the feasibility of using a flapping wing vehicle for planetary exploration on Mars and Venus.
 
-I am also a dedicated developer of the open-source aerodynamics code known as [DUST](https://public.gitlab.polimi.it/DAER/dust). 
+I am also a dedicated developer of the open-source aerodynamics code [DUST](https://public.gitlab.polimi.it/DAER/dust). 
 
 To date, I have published six journal papers and twenty conference papers. In 2022, I received the second prize for the [best student paper](https://www.aero.polimi.it/it/magazine/asme-idetc-msndc-alessandro-cocco-awarded-second-best-student-paper) at the ASME conference held in St. Louis, Missouri.
 
@@ -19,30 +19,27 @@ To date, I have published six journal papers and twenty conference papers. In 20
 ## Reserch area 
 #### Tiltrotor Whirl flutter
 
-
 {% include youtube.html id="7XwDIkWPda4" %} 
+
 
  
 #### Non-linear aeroelastic simulations
 
-
 {% include youtube.html id="LfwkFAlDmDs" %} 
 
 
-#### Comphrehensive aeromechanics simulations
 
+#### Comphrehensive aeromechanics simulations
 
 {% include youtube.html id="I6CKiCGOwVo" %} 
 
 
 #### Vortex particle method 
 
-
 {% include youtube.html id="4PLi11XCatg" %} 
 
 
 #### Pilot's biomechanical modeling 
-
 
 {% include youtube.html id="xh7uhQzemAQ" %} 
 
