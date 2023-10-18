@@ -18,11 +18,12 @@ To date, I have published six journal papers and twenty conference papers. In 20
 
 ## Reserch area 
 #### Tiltrotor Whirl flutter
- 
-## Comprehensive tiltorot aeromechanical simulation 
+
+#### Non-linear aeroelastic simulation 
+#### Comphrehensive aeromechanics simulation
 #### Vortex particle method 
 #### Adverse rotorcraft-pilot couplings
-  
+
 ## Publications 
 <p>
 <details>
