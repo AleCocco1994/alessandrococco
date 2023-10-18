@@ -19,9 +19,9 @@ To date, I have published six journal papers and twenty conference papers. In 20
 ## Reserch area 
 #### Tiltrotor Whirl flutter
 
-
+<video controls="" width="800" height="500" muted="" loop="YES" autoplay="YES">
 https://github.com/AleCocco1994/alessandrococco/assets/62623871/62ccd4b8-b1da-4200-b02f-b876c5349d33
-
+</video>
 
 
 
