@@ -19,25 +19,32 @@ To date, I have published six journal papers and twenty conference papers. In 20
 ## Reserch area 
 #### Tiltrotor Whirl flutter
 
-{% include youtube.html id="I6CKiCGOwVo" %}  
+
+{% include youtube.html id="7XwDIkWPda4" %} 
+
+ 
 #### Non-linear aeroelastic simulations
 
-https://github.com/AleCocco1994/alessandrococco/assets/62623871/266eb6f4-3f56-4a4f-8a0f-eef7e4aded4d
+
+{% include youtube.html id="LfwkFAlDmDs" %} 
 
 
 #### Comphrehensive aeromechanics simulations
 
 
-https://github.com/AleCocco1994/alessandrococco/assets/62623871/ee832bfc-a68e-4416-aaec-1b45d392cad9
+{% include youtube.html id="I6CKiCGOwVo" %} 
 
 
 #### Vortex particle method 
 
 
+{% include youtube.html id="4PLi11XCatg" %} 
+
+
 #### Pilot's biomechanical modeling 
 
 
-https://github.com/AleCocco1994/alessandrococco/assets/62623871/048c0771-4346-4da9-84b0-6e6fc2f7646f
+{% include youtube.html id="xh7uhQzemAQ" %} 
 
 
 ## Publications 
