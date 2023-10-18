@@ -19,8 +19,7 @@ To date, I have published six journal papers and twenty conference papers. In 20
 ## Reserch area 
 #### Tiltrotor Whirl flutter
 
-https://media.githubusercontent.com/media/AleCocco1994/alessandrococco/main/videos/pazy_wing_flutter.mp4
-
+{% include youtube.html id="I6CKiCGOwVo" %}  
 #### Non-linear aeroelastic simulations
 
 https://github.com/AleCocco1994/alessandrococco/assets/62623871/266eb6f4-3f56-4a4f-8a0f-eef7e4aded4d
