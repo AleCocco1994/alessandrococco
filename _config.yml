@@ -1,5 +1,8 @@
 title: Alessandro Cocco
-logo: gfx/sim_photo.jpg
+author:
+  name: 
+  email: acocco1@umd.edu
+logo: gfx/sim_photo.jpg # to crop 
 #description: 
 remote_theme: "godalming123/minimal"
 plugins:
