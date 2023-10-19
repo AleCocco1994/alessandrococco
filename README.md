@@ -16,7 +16,7 @@ To date, I have published six journal papers and twenty conference papers. In 20
 - 2023 Ph.D (with honors) in Aerospace Engineering, Politecnico di Milano 
 - 2023 PostDoc University of Maryland
 
-## Reserch area 
+## Research area 
 ### Tiltrotor Whirl flutter
 
 {% include youtube.html id="7XwDIkWPda4" %} 
