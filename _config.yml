@@ -3,8 +3,10 @@ author:
   name: 
   email: acocco1@umd.edu
 logo: gfx/sim_photo.jpg # to crop 
-#description: 
+description: acocco1@umd.edu 
 remote_theme: "godalming123/minimal"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #theme: jekyll-theme-minimal # add this line to the plugins list if you already have one
+
+linkedin_username: alessandro-cocco-220894 
