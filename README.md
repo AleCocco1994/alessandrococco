@@ -48,7 +48,7 @@ To date, I have published six journal papers and twenty conference papers. In 20
 <p>
 <details>
 
-  <summary markdown="span">Journal Papers</summary>
+  <summary markdown="span"><b>Journal Papers</b></summary>
 
 - Tamer, Aykut; Zanoni, Andrea; Muscarello, Vincenzo; <b>Cocco, Alessandro</b>; Quaranta, Giuseppe; Masarati, Pierangelo;  <i>Biodynamic modeling techniques for rotorcraft comfort evaluation</i> Aerotecnica Missili & Spazio 98  147-158 2019 Springer International Publishing, <a href="https://re.public.polimi.it/bitstream/11311/1091208/4/TAMEA_OA_02-19.pdf"><b>[PDF]</b></a><br><br>
 
@@ -73,7 +73,7 @@ To date, I have published six journal papers and twenty conference papers. In 20
 <p>
 <details>
 
-  <summary markdown="span">Conference Papers</summary>
+  <summary markdown="span"><b>Conference Papers</b></summary>
 
 - Tamer, A; Zanoni, A; <b>Cocco, A.</b>; Masarati, P., <i>Visual Performance Evaluation Of Helicopter Pilots In Vibrating Cockpit</i>. ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2019). <a href="https://watermark.silverchair.com/v006t09a038-detc2019-97525.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABMwwggTIBgkqhkiG9w0BBwagggS5MIIEtQIBADCCBK4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxZrNvXkXSz-ZqfhTAgEQgIIEf_Ev-o_DEtoT0P5RthTaWIiWOO88T8VmHKpEW5VSlDHk43WWGx5VE7w9QD9WIL7yLDt0aQKqC9WJVvbviHEzykp6KyMwgVssCZY19Z6UY0Wvi8TilHs28wYEELRU29Mdn13R2pBY0Bj4aoyZgAtpbXeOHwq40_IXvqW5SIhUf7b7wlDYd66OOjZjSrAcDuCvOnXQJlcFQV0v9GEiMWfn1YzwdMFjzJNwsvIMyMTtSc6ZEPPBmxzdLZ_RpAysV64mqxhDNW3EZvvimmKEyBJrVB2G0RbXOyCn8UkRln1y27W8nZBNW74Gop5HNi7CfANptKUb-enWqV2C6F2CU5HoniN6s6ykYArTyKAkMy_fW6644CFEONHgxudRQEeD6M3kx55mT2wwhFh19_e8wMCQRDerTzCHkKFMh3SS25V0Vc552tjmPNKsvS5Sn9eOsClX3ZNhbz6vgZ2djVFww7H7gWQV--JY9Tppom3-8duuGKkNapy_8OPiXxHBNu22GvwxgQ4dJflNTKCN-bcQKJZ834wb_Tsfq-wIMJmxd2s1k8QG3tXHXWmBGNW9qI8wvxCwf-NLzLjc3UtAmksNarO-zEJ0Hcofe7DQzdzz7Dw5xyNlkcZ3Fu7P2POhXj3cBrnlJeh5JPnBopDLcUvi1bnRlf37C8t5CtJucPpb_BF9soK48dZ9lfUiOtGgpwFzRe63WTni7MikBL-nDW2O5ZbjoL5NhL9AUEh9OLQwviURBc0BPiILRjUV284RvLW60jj5mbAHKcL7MGkKchYTX1ZYu_mx6XXMMGillARzjJS98aoftYsNnlxloG5eG7L84AR4nZyR0MbPWLLUf-4qGBXkPhQF0zsF3vXQ-GRPwWDSuYp0HmFAuyxXLpNUHlGEo4CmXlRQQqtTFBttidIlobUbR_L3HxKqMg7ftdR5nXcpb6d3rktXZeIkU8V-XBWIkeJkUlJKKwahF7J5yWCoXd3DTjbTLCyDbmZnE4-2zaMibzIz1ykhzqrYfOA3aX3vkOHLv6x9sSpe_vdn8o4G72uG-dMxb2n1ME_V5CAarlZGB8GzCi0mELy7iS_i_bErAkYdtLl6qU2NQ9gdDSd4HXnRbVEAxq9-TyLqmeOGScgZwZu4luCEf6SFBfnlRWdCPvg9S_Vxdh2gJo1smb8dKqy6tJRymm5nIxu2vGm-cgfuz8UJITExR3a_7ND-dXjfSEZ-mGsHRvBlpkssDv8DCBjCFaJDs3IcOTfwzvyUO5Mjk0O6VzGTRlTTsWNgdGB00JkzSVi4Ixt-aPe4GcEZtuV7Sfd2TRfVDF2w26gUx08BAEEWNvDvT8AOanpQCW-yoPFAMHvASErbg8rc9-zlDwmumLde5Uv8BCHO2EpdFnTKVsZZEJHSLbvo_ihzeM41ElZ5gWpWfUUid3eJ02nmf8ul1LS8PJdn1dT0Z_vxWeE3ABjagxiGQshvqJ8jpaXQxAe4-bA8oklmHAJZ02nVvSMCjua2dw4Uygl-_fPJOlDdiyNsLk6G7tb8qzdJ2mvlb0Zt
 "><b>[PDF]</b></a><br><br>
@@ -87,11 +87,12 @@ To date, I have published six journal papers and twenty conference papers. In 20
 
 - Guerroni, Federico; <b>Cocco, Alessandro</b>; Zanoni, Andrea; Masarati, Pierangelo; <i> Uncertainty quantification of tiltrotor whirl flutter aeroelastic stability from multibody analysis</i>. 46th European Rotorcraft Forum (ERF 2020). <a href="https://re.public.polimi.it/bitstream/11311/1146547/1/GUERF01-20.pdf"><b>[PDF]</b></a><br><br>
 
-- Zanoni, Andrea; <b>Cocco, Alessandro</b>; Masarati, Pierangelo; <i> Numerical Investigation on the Role of Control Inceptors Layout in Rotorcraft-Pilot Couplings</i>. 77th International Annual Forum Vertical Flight Society.
+- Zanoni, Andrea; <b>Cocco, Alessandro</b>; Masarati, Pierangelo; <i> Numerical Investigation on the Role of Control Inceptors Layout in Rotorcraft-Pilot Couplings</i>. 77th International Annual Forum Vertical Flight Society.<br><br>
 
 - <b>Cocco, Alessandro</b>; Savino, Alberto; Zanotti, Alex; Zanoni, Andrea; Masarati, Pierangelo; Muscarello, Vincenzo; <i> Coupled multibody-mid fidelity aerodynamic solver for tiltrotor aeroelastic simulation</i>. 9th International Conference on Computational Methods for Coupled Problems in Science and Engineering, COUPLED PROBLEMS 2021. <a href="https://re.public.polimi.it/bitstream/11311/1177598/1/COCCA01-21.pdf"><b>[PDF]</b></a><br><br>
 
-- <b>Cocco, Alessandro</b>; Mazzetti, Stefano; van’t Hoff, Stefan; Timmerman, Bart; Masarati, Pierangelo; <i> Aeroelastic simulation for stability analysis of a tiltrotor semi-span model</i>. 26th Conference of the Italian Association of Aeronautics and Astronautics (AIDAA 2021).
+- <b>Cocco, Alessandro</b>; Mazzetti, Stefano; van’t Hoff, Stefan; Timmerman, Bart; Masarati, Pierangelo; <i> Aeroelastic simulation for stability analysis of a tiltrotor semi-span model</i>. 26th Conference of the Italian Association of Aeronautics and Astronautics (AIDAA 2021). <br><br>
+
 
 - <b>Cocco, Alessandro</b>; Masarati, Pierangelo; van’t Hoff, Stefan; Timmerman, Bart; <i> Tiltrotor whirl flutter analysis in support of NGCTR aeroelastic wind tunnel model design</i>. 47th European Rotorcraft Forum (ERF 2021). <a href="https://re.public.polimi.it/bitstream/11311/1183862/1/COCCA03-21.pdf"><b>[PDF]</b></a><br><br>
 
@@ -115,7 +116,7 @@ To date, I have published six journal papers and twenty conference papers. In 20
 
 - van't Hoff, Stefan; van Vilsteren, Jelmer; <b>Cocco, Alessandro</b>; Masarati, Pierangelo; <i>Design of a Tiltrotor Semi-Span Wind Tunnel Model for Whirl Flutter Investigations</i>. AIAA Scitech 2023 Forum. <a href="https://re.public.polimi.it/bitstream/11311/1228093/3/VANTS_OA_01-23.pdf"><b>[PDF]</b></a><br><br>
 
-- Saetti, Umberto; <b>Cocco, Alessandro</b>; Manjhi, Ashish K; Horn, Joseph F; <i> Implementation and Linearization of a State-Space Free Wake Model with a Near-Wake Vortex Lattice Model</i>. 79th Vertical Flight Society Annual Forum and Technology Display, FORUM 2023.
+- Saetti, Umberto; <b>Cocco, Alessandro</b>; Manjhi, Ashish K; Horn, Joseph F; <i> Implementation and Linearization of a State-Space Free Wake Model with a Near-Wake Vortex Lattice Model</i>. 79th Vertical Flight Society Annual Forum and Technology Display, FORUM 2023.<br><br>
 
 </details>
 </p>
