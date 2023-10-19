@@ -3,7 +3,7 @@ author:
   name: 
   email: acocco1@umd.edu
 logo: gfx/sim_photo.jpg # to crop 
-description: acocco1@umd.edu 
+description: <a href="cocco1@umd.edu" target="_blank">cocco1@umd.edu</a>a 
 remote_theme: "godalming123/minimal"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
